@@ -1,0 +1,23 @@
+{
+  "name": "big-number-samicelus",
+  "version": "1.0.0",
+  "description": "big-number calculate",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samicelus/big-number-samicelus.git"
+  },
+  "author": "samicelus",
+  "license": "ISC",
+  "homepage": "https://github.com/Samicelus/big-number-samicelus",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
