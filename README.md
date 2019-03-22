@@ -18,4 +18,6 @@ const big_2 = new BIGNUMBER("-198.996");
 console.log(`${big_1.toString()} + ${big_2.toString()} = ${big_1.add(big_2).toString()}`);
 
 console.log(`${big_1.toString()} - ${big_2.toString()} = ${big_1.subtract(big_2).toString()}`);
+
+console.log(`${big_2.toString()} * ${-90.01} = ${big_2.multiply(-90.01).toString()}`)
 ```
